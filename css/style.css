@@ -1,8 +1,15 @@
 .location-card{
     width: 100%;
     height: 100%;
-    background-image: ;
     margin: 50px 0;
     padding: 100px 0;
-    text-align: v;
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 5px;
+}
+.location-card .india{
+    background-image: url("../imags/indrail.jpg");
 }
